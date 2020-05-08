@@ -17,4 +17,3 @@ Motor Vehicle Collision Vehicles
 
 # References
 
-# Copyright
